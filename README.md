@@ -13,7 +13,7 @@ and before the comment
 # Find the final result doing the product of the congruents (smartly)
 ```
 
-The comments inside the code describe how the new implementation is working.
+The comments in the code describe how the new implementation is working.
 
 To summarize:
 ```
