@@ -1,6 +1,6 @@
 # number-theory-problem-set-5
 
-Inside the overdue directory the remainder function in the remainder_.py file is implememented in a much more efficient way than the previous implementation. 
+Inside the "overdue/" directory the remainder function in the remainder_.py file is implememented in a much more efficient way than the previous implementation. 
 
 Huge difference can be observed for big exponents.
 
