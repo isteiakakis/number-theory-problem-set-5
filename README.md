@@ -50,7 +50,7 @@ remainder(divisor, base, exponent)
 
 # Find which congruences are needed for final result calculation 
 
-### Find the final result doing the product of the congruents (smartly)
+### Find the final result doing the product of the appropriate congruents (smartly)
 
 # Same scheme as above for smart congruence computation
 ```
