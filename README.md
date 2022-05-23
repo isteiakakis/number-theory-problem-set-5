@@ -31,7 +31,7 @@ remainder(divisor, base, exponent)
 # where p1,...,pm are the powers of 2 terms of the exponent sum found above, p1>...>pm
 
 # Calculate the optimal congruent of each of the terms   base^p1, ..., base^pm
-# The optimal congruent is the one that is closer to zero than any other one
+# The optimal congruent is the congruent that is closer to zero than any other one
 
 # Find the congruent of base^p (where p is a power of 2) for every p up to the maximum exponent sum term
 
