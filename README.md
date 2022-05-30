@@ -1,5 +1,15 @@
 # number-theory-problem-set-5
 
+Usage:
+```
+python3 remainder.py <divisor:int> <base:int> <exponent:int>
+```
+```
+python3 primitive_root_mod_prime <prime_number:int>
+```
+
+
+
 Inside the "overdue/" directory the remainder function in the "remainder_.py" file is implememented in a much more efficient way than the previous implementation. 
 
 Huge difference can be observed for big exponents.
