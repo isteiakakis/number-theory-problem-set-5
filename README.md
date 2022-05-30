@@ -1,14 +1,17 @@
 # number-theory-problem-set-5
 
-## Usage:
+## Usage
+Compute r_d[b^e]:
 ```
 python3 remainder.py <divisor:int> <base:int> <exponent:int>
 ```
+
+Compute a primitive root mod a prime number:
 ```
 python3 primitive_root_mod_prime <prime_number:int>
 ```
 
-
+### Improvements
 
 Inside the "overdue/" directory the remainder function in the "remainder_.py" file is implememented in a much more efficient way than the previous implementation. 
 
