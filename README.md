@@ -1,6 +1,6 @@
 # number-theory-problem-set-5
 
-##Usage:
+## Usage:
 ```
 python3 remainder.py <divisor:int> <base:int> <exponent:int>
 ```
