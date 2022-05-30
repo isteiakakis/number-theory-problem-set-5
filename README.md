@@ -8,7 +8,7 @@ python3 remainder.py <divisor:int> <base:int> <exponent:int>
 
 Compute a primitive root mod a prime number:
 ```
-python3 primitive_root_mod_prime <prime_number:int>
+python3 primitive_root_mod_prime.py <prime_number:int>
 ```
 
 ### Improvements
