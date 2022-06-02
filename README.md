@@ -13,7 +13,7 @@ python3 primitive_root_mod_prime.py <prime_number:int>
 
 ### Improvements
 
-Inside the "overdue/" directory the remainder function in the "remainder_.py" file is implememented in a much more efficient way than the previous implementation. 
+Inside the "overdue-smarter-remainder/" directory the remainder function in the "remainder_.py" file is implememented in a much more efficient way than the previous implementation. 
 
 Huge difference can be observed for big exponents.
 
