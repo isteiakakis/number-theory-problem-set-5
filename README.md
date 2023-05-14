@@ -11,21 +11,6 @@ Compute a primitive root mod a prime number:
 python3 primitive_root_mod_prime.py <prime_number:int>
 ```
 
-### Improvements
-
-Inside the "overdue-smarter-remainder/" directory the remainder function in the "remainder_.py" file is implememented in a much more efficient way than the previous implementation. 
-
-Huge difference can be observed for big exponents.
-
-The changes were made in the code section after the comment
-```
-### Now do the smart calculation process
-```
-and before the comment
-```
-# Find the final result doing the product of the congruents (smartly)
-```
-
 The comments in the code describe how the new implementation is working.
 
 To summarize:
