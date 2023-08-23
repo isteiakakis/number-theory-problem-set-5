@@ -1,7 +1,7 @@
 # number-theory-problem-set-5
 
 ## Usage
-Compute $r_d[b^e]$:
+Compute r_d[b^e], i.e. the remainder of the division b^e/d:
 ```
 python3 remainder.py <divisor:int> <base:int> <exponent:int>
 ```
