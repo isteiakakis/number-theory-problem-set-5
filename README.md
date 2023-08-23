@@ -11,6 +11,7 @@ Compute a primitive root mod a prime number:
 python3 primitive_root_mod_prime.py <prime_number:int>
 ```
 
+## How it works
 The comments in the code describe how the new implementation is working.
 
 To summarize:
